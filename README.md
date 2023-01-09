@@ -1,3 +1,11 @@
+Projekt strony do oddania niepotrzebnych ubrań lub zabawek.
+React
+React Router
+Fire DB
+react styled components
+rect hook form
+react scroll
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
